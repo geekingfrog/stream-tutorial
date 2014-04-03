@@ -1,0 +1,21 @@
+{
+  "name": "streams",
+  "version": "0.0.0",
+  "description": "",
+  "main": "stream10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stream-combiner": "0.0.4",
+    "duplexer": "^0.1.1",
+    "through": "^2.3.4",
+    "split": "^0.3.0",
+    "concat-stream": "^1.4.4",
+    "trumpet": "^1.6.3",
+    "request": "^2.34.0",
+    "tar": "^0.1.19"
+  }
+}
